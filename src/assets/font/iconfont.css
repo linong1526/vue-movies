@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3476205 */
+  src: url('iconfont.woff2?t=1655733978112') format('woff2'),
+       url('iconfont.woff?t=1655733978112') format('woff'),
+       url('iconfont.ttf?t=1655733978112') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shezhi:before {
+  content: "\e64b";
+}
+
+.icon-kefuzixunhui:before {
+  content: "\e615";
+}
+
+.icon-xiaoxi:before {
+  content: "\e620";
+}
+
+.icon-qiaquan:before {
+  content: "\e631";
+}
+
+.icon-wode:before {
+  content: "\e681";
+}
+
+.icon-shouchequan:before {
+  content: "\e655";
+}
+
+.icon-dianying:before {
+  content: "\e638";
+}
+
+.icon-yingyuan:before {
+  content: "\e8c0";
+}
+
+.icon-youhuiquan:before {
+  content: "\e763";
+}
+
+.icon-hongbao2:before {
+  content: "\e66a";
+}
+
+.icon-yue:before {
+  content: "\e6b7";
+}
+
+.icon-kaquan:before {
+  content: "\e619";
+}
+
+.icon-shangchengdingdan:before {
+  content: "\e622";
+}
+
+.icon-dingdan_dingdanliebiao:before {
+  content: "\e787";
+}
+
