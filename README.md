@@ -1,6 +1,17 @@
-# movie
+#  🎬movie
+> Webapps for vue and vant 仿卖座网
 
-## Project setup
+> [点击前往卖座网](https://m.maizuo.com/v5/#/films/nowPlaying)
+## ✨Project setup
+### clone the project
+```
+git clone git@github.com:linong1526/vue-movies.git
+```
+### enter the project directory
+```
+### cd vue-movies
+```
+install dependency
 ```
 npm install
 ```

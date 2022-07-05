@@ -84,7 +84,7 @@ export default {
     height: 200px;
     padding-left: 22px;
     padding-top: 40px;
-    background: url(../assets/images/bg.a5bdd690.png);
+    // background: url(../assets/images/bg.a5bdd690.png);
     background-size: cover;
     display: -webkit-box;
     display: -ms-flexbox;
